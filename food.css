@@ -1,0 +1,24 @@
+.mapCell {
+	width: 32px;
+	height: 32px;
+	padding: 0px;
+	margin: 0px;
+	max-width: 32px;
+	max-height: 32px;
+	overflow: hidden;
+}
+
+tr {
+	max-height: 32px;
+}
+
+td {
+	padding: 0px;
+	margin: 0px;
+/*	border: 1px dashed black; */
+}
+
+table {
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
